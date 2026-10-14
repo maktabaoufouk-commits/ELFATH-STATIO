@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="EL FATH STATIO — dog-ear monogram">
+  <title>EL FATH STATIO — dog-ear monogram</title>
+  <!-- Paper ground -->
+  <rect width="512" height="512" fill="#F3EEE4"/>
+  <!-- E: thick geometric monogram -->
+  <g fill="#12110F">
+    <rect x="96" y="96" width="88" height="320"/>
+    <path d="M96 96 H336 L416 184 H96 Z"/>
+    <rect x="96" y="212" width="264" height="88"/>
+    <rect x="96" y="328" width="320" height="88"/>
+  </g>
+  <!-- Dog-ear fold: the back of the page, chili red -->
+  <path d="M336 96 L416 96 L416 184 Z" fill="#E23B2F"/>
+  <!-- Crease: the folded page edge -->
+  <path d="M336 96 L416 184" stroke="#12110F" stroke-width="14" fill="none"/>
+</svg>

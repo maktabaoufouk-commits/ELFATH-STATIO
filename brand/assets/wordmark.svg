@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" role="img" aria-label="EL FATH STATIO — الفتح ستاتيو">
+  <title>EL FATH STATIO — الفتح ستاتيو</title>
+  <rect width="960" height="400" fill="#F3EEE4"/>
+  <text x="480" y="172" text-anchor="middle" xml:lang="fr"
+        font-family="Fraunces, Georgia, 'Times New Roman', serif"
+        font-size="118" font-weight="900" letter-spacing="4" fill="#12110F">EL FATH STATIO</text>
+  <text x="480" y="296" text-anchor="middle" xml:lang="ar" dir="rtl"
+        font-family="Cairo, 'IBM Plex Arabic', Inter, sans-serif"
+        font-size="88" font-weight="700" fill="#12110F">الفتح ستاتيو</text>
+  <!-- Tiny olive baseline -->
+  <rect x="336" y="336" width="288" height="16" fill="#1C4A38"/>
+</svg>
